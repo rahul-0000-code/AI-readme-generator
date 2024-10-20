@@ -1,0 +1,2 @@
+{"input": {"folder_structure": "app/, app/main.py, Dockerfile", "code_snippets": ["class App:\n    def __init__(self):\n        pass"]}, "output": "# App Title\nThis is a simple Python app that uses Docker."}
+{"input": {"folder_structure": "src/, src/index.js, package.json", "code_snippets": ["const express = require('express')"]}, "output": "# Express App\nAn Express.js web application."}
